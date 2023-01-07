@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-01-07T01:18:39.273Z"
+    },
+    {
+      "description": "Pizza",
+      "price": 30,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-07T02:31:12.718Z",
+      "id": 3
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-07T02:39:01.642Z",
+      "id": 4
     }
   ]
 }
